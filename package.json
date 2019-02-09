@@ -1,0 +1,25 @@
+{
+  "name": "openProject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dulee19/openProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dulee19/openProject/issues"
+  },
+  "homepage": "https://github.com/dulee19/openProject#readme",
+  "dependencies": {
+    "angular": "^1.7.7",
+    "angular-route": "^1.7.7",
+    "bootstrap": "^4.2.1"
+  }
+}
